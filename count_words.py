@@ -1,4 +1,3 @@
-import multiprocessing
 import collections
 import sys
 import re
